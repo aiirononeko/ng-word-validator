@@ -1,0 +1,5 @@
+[
+	{ "word": "死ね", "category": "violent", "severity": 2 },
+	{ "word": "殺す", "category": "violent", "severity": 3 },
+	{ "word": "ばかやろう", "category": "abusive", "severity": 1 }
+]
